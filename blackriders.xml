@@ -23,7 +23,7 @@
             <div2 type="poem" ana="#theme-religion">
                <head>I</head>
                <ab>
-                     <lb/><s><phr ana="#fig-symbol"><w ana="#desc-color">Black</w> Riders</phr> came from the <w ana="#fig-image">sea</w>.</s>
+                     <lb/><s><phr ana="#fig-test"><w ana="#desc-color">Black</w> Riders</phr> came from the <w ana="#fig-image">sea</w>.</s>
                      <lb/><s>There was <w ana="#desc-sound">clang</w> and <w ana="#desc-sound">clang</w> of <w ana="#fig-image">spear</w> and <w ana="#fig-image">shield</w>,
                         <lb/>And <w ana="#desc-sound">clash</w> and <w ana="#desc-sound">clash</w> of <w ana="#fig-image">hoof</w> and <w ana="#fig-image">heel</w>,
                         <lb/><phr ana="#desc-sound">Wild shouts</phr> and the <phr ana="#fig-image">wave of hair</phr>
