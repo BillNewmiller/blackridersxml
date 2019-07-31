@@ -52,8 +52,8 @@
                <lb/><s>I said, "Is it <w ana="#desc-condition">good</w>, friend?"</s>
                <lb/><s>"It is <phr ana="#desc-condition">bitter--bitter,"</phr> he answered;
                   <lb/>"But I like it
-                  <lb/>Because it is bitter,
-                  <lb/>And because it is my heart."</s></ab></div2>
+                  <lb/>Because it is <w ana="#desc-condition">bitter</w>,
+                  <lb/>And because it is my <w ana="#fig-image">heart</w>."</s></ab></div2>
             
             <div2 type="poem" ana="#theme-other"><head>IV</head><ab>
                <lb/><s>Yes, <phr ana="#fig-image">I have a thousand <w ana="#ref-object">tongues</w></phr>,
