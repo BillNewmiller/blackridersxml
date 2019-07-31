@@ -47,7 +47,7 @@
                <lb/><s>In the <w ana="#fig-image">desert</w>
                   <lb/>I saw a <w ana="#ref-animal">creature</w>, <w ana="#desc-condition">naked</w>, <w ana="#desc-condition">bestial</w>,
                   <lb/>Who, <phr>squatting upon the ground</phr>,
-                  <lb/><phr ana="#fig-image">Held his heart in his hands</phr>,
+                  <lb/>Held his <w ana="#fig-image">heart</w> in his hands,
                   <lb/>And ate of it.</s>
                <lb/><s>I said, "Is it <w ana="#desc-condition">good</w>, friend?"</s>
                <lb/><s>"It is <w ana="#desc-condition">bitter</w>--bitter," he answered;
